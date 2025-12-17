@@ -1,22 +1,23 @@
-# pico-embedded-book
-Example code for Raspberry Pi Pico embedded systems projects
 # Raspberry Pi Pico Embedded Systems Programming
 
 This repository contains selected example code from the book:
 
 **Raspberry Pi Pico Embedded Systems Programming**  
-Hands-On C/C++ and MicroPython Projects with RP2350
+Hands-On C/C++ Projects with RP2350
 
-## Contents
-- GPIO basics (LED blink)
-- Timers and delays
-- PWM and ADC examples
-- Peripheral control examples
+## Who this is for
+Readers of the book who want to run and test real examples on hardware.
 
-## Requirements
-- Raspberry Pi Pico / Pico 2
-- Raspberry Pi Pico SDK
-- C/C++ toolchain or MicroPython
+## What you’ll find here
+- RP2350 basic examples
+- PIO programming examples
+- Dual-core examples
+- USB device examples
+- TinyML inference stubs
 
-## Book Link
-https://a.co/d/8zVLdOB
+## What is NOT included
+Advanced projects (VGA, USB host, Wi-Fi, Bluetooth, full ML pipelines)
+are explained step-by-step in the book and are not published here.
+
+## Book link
+[(https://a.co/d/64VEFT6)
